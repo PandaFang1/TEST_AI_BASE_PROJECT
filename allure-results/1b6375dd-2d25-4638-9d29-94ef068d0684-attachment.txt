@@ -1,0 +1,1 @@
+[Errno 2] No such file or directory: 'allure-results/failure_test_camera_add_and_unbind_1782650507.png'

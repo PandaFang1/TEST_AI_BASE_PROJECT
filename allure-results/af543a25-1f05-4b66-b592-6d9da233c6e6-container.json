@@ -1,0 +1,1 @@
+{"uuid": "0696b1a5-6d5c-4c3e-80f7-dec05192f30c", "children": ["c3a60594-cd0f-4629-8193-9a9b6456e259"], "befores": [{"name": "poco_instance", "status": "passed", "start": 1782650479158, "stop": 1782650481787}], "afters": [{"name": "poco_instance::0", "status": "passed", "start": 1782650507654, "stop": 1782650507654}], "start": 1782650479158, "stop": 1782650507654}
